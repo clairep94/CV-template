@@ -90,7 +90,7 @@ Consider skills relevent to software development. Then consider projects you've 
 - CI-CD
 - Pair-programming
 - Agile methodology
-- Learning: MERN stack
+- Learning: MERN stack, Swift
 
 #### Central Saint Martins (Sept '18 to Mar '20)
 
