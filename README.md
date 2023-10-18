@@ -42,7 +42,7 @@ _Freelance Technical Designer_
 
 - Created technical packages, with diagrams and specifications for the construction, material, wash, print, and trims of each product.
 
-- This mental process is similar to ER modelling for software engineering. I am well-practiced in breaking down a product design into separate components with its own spec details and dependencies, and communicating these clearly to a third party.
+- This role is similar to ER modelling for software engineering. I am well-practiced in breaking down a product design into separate components with its own spec details and dependencies, and communicating these clearly to a third party.
 
 <br>
 
@@ -51,7 +51,7 @@ _Menswear Design Assistant, Mainline Wovens_
 
 - Supported the Menswear Mainline team with creating CAD designs, updating design boards, and amending designs, staying adaptive to ongoing feedback from the Creative Director.
 
-- This design process is similar to Agile methodology in software engineering. I am adept at making incremental changes to meet client feedback, and can handle multiple tickets in a fast-paced environment.
+- This role is directly applicable to Agile methodology in software engineering. I am adept at making incremental changes to meet client feedback, and can handle multiple tickets in a fast-paced environment.
 
 <br>
 
@@ -86,6 +86,7 @@ Consider skills relevent to software development. Then consider projects you've 
 - Recipient of the Represent Scholarship, sponsored by `codebar.io`
 - Python, Flask, PostgreSQL, Javascript
 - OOP, TDD
+- Git, Version-Control
 - CI-CD
 - Pair-programming
 - Agile methodology
