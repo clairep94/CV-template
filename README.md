@@ -2,7 +2,7 @@
 
 <!-- A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech. -->
 
-I am a training full-stack developer and `codebar.io` Represent Scholarship student at `Makers Academy`. Previous to my journey in tech, I was a fashion designer and have designed for luxury brands such as `Burberry`, `Celine`, and `A-Cold-Wall`. 
+I am a training full-stack developer and current recipient of the `Represent Scholarship` by `codebar.io` for `Makers Academy`. Previous to my journey in tech, I was a fashion designer and have designed for luxury brands such as `Burberry`, `Celine`, and `A-Cold-Wall`. 
 
 At my heart, I am a maker, whether it is an elegant piece of software or beautiful piece of clothing. I have experience leading design teams, and I can take complete ownership of a product from research to concept to design development to prototype and production launch. I am detail oriented, love puzzles and thinking of systematic solutions. Tech gives me the opportunity to combine my creativity, love of making, and analytical problem-solving skills.
 
@@ -83,6 +83,7 @@ Consider skills relevent to software development. Then consider projects you've 
 
 #### Makers Academy (Sept '23 to Jan '24)
 <!-- TODO: Description -->
+- Recipient of the Represent Scholarship, sponsored by `codebar.io`
 - Python, Flask, PostgreSQL, Javascript
 - OOP, TDD
 - CI-CD
