@@ -24,11 +24,11 @@ _Student Full-Stack Developer_
 
 - Wrote web-based full-stack applications in both Python (Flask) and Javascript (MERN). Experienced in designing and writing a relational database from scratch with PostgreSQL.
 
-- Developed personal weekly projects with a focus on OOP, TTD, and considered architecture to create code that is well-tested, easy to read, maintain, and scale.
+- Developed weekly personal projects with a focus on OOP, TTD, and considered architecture to create code that is well-tested, easy to read, maintain, and scale.
 
 - Worked collaboratively on team projects in an Agile environment (including SCRUM, Pair Programming, Kanban, etc.) to efficiently reach MVPs, implement new features, and deploy them in a CI-CD approach.
 
-- Adept at independently interpreting Briefs and User Stories into project architecture and can confidently solve logistical problems with software.
+- Adept at independently interpreting Briefs and User Stories into a project design. Can confidently solve new logistical problems with software.
 
 
 <br>
@@ -40,7 +40,7 @@ _Lead Designer_
 
 - Strong research skills and can take ownership of developing products from concept, to design & development, to prototype and deployment.
 
-- This role gave me skills directly applicable to designing a software engineering product from scratch. I am adept at interpretting a high-level brief into concrete project components. I can own products from end-to-end, and design solutions with both technical efficiency and brand-alignment in mind.
+- This role gave me directly applicable skills to designing a software engineering product from scratch. I am adept at interpretting a high-level brief into concrete project components. I can own products from end-to-end, and design solutions with both technical efficiency and brand-alignment in mind.
 
 <br>
 
@@ -49,7 +49,7 @@ _Freelance Technical Designer_
 
 - Created technical packages, with diagrams and specifications for the construction, material, wash, print, and trims of each product.
 
-- This role is similar to OO analysis and design for software engineering. I am well-practiced in breaking down a product design into separate components with its own spec details and dependencies. I can communicate these technical details through well-drawn diagrams and clearly-written specifications to a third party.
+- This role is similar to OO analysis for software engineering. I am well-practiced in breaking down a product into separate components with its own spec details and dependencies. I can communicate these technical details through well-drawn diagrams and clearly-written specifications to a third party.
 
 <br>
 
