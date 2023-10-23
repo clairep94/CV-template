@@ -22,7 +22,7 @@ At my core, I am a maker, whether it is an elegant piece of software or beautifu
 **Makers Academy** (Sept '23 to Jan '23)  
 _Student Full-Stack Developer_
 
-- Wrote web-based full-stack applications in both Python (Flask) and Javascript (MERN). Experienced in designing and writing a relationship database from scratch with PostgreSQL.
+- Wrote web-based full-stack applications in both Python (Flask) and Javascript (MERN). Experienced in designing and writing a relational database from scratch with PostgreSQL.
 
 - Developed personal weekly projects with a focus on OOP, TTD, and considered architecture to create code that is well-tested, easy to read, maintain, and scale.
 
