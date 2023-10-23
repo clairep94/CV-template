@@ -4,17 +4,17 @@
 
 I am a training full-stack developer and current recipient of the `Represent Scholarship` by `codebar.io` for `Makers Academy`. Previous to my journey in tech, I was a fashion designer and have designed for luxury brands such as `Burberry`, `Celine`, and `A-Cold-Wall`. 
 
-At my heart, I am a maker, whether it is an elegant piece of software or beautiful piece of clothing. I have experience leading design teams, and I can take complete ownership of a product from research to concept to design development to prototype and production launch. I am detail oriented, love puzzles and thinking of systematic solutions. Tech gives me the opportunity to combine my creativity, love of making, and analytical problem-solving skills.
+At my core, I am a maker, whether it is an elegant piece of software or beautiful piece of clothing. I have experience leading design teams, and I can take complete ownership of a product from research to concept to design development to prototype and production launch. I am detail oriented, love puzzles and thinking of systematic solutions. Tech gives me the opportunity to combine my creativity, love of making, and analytical problem-solving skills.
 
 ## Projects
 
 | Name                        | Description                   | Tech/tools                  |
 | ----------------------------| ----------------------------- | --------------------------- |
-| **ASCII Image Filter**      | An app to turn images into ASCII art | Python, PIL     |
-| **Twitter Clone (WIP)** | Barebones CRUD webapp with Twitter's main functionalities including: Follow, Post, Comment, Like, Hashtag | Python, Flask, Pytest, Playwright, OOP, TTD, HTTP, PostgreSQL |
+| **ASCII Image Filter***      | An app to turn images into ASCII art | Python, PIL     |
+| **Twitter Clone (WIP)*** | Barebones CRUD webapp with Twitter's main functionalities including: Follow, Post, Comment, Like, Hashtag | Python, Flask, Pytest, Playwright, OOP, TTD, HTTP, PostgreSQL |
 | **Music Library**           | First CRUD webapp to store artists and albums | Python, Flask, Pytest, Playwright, OOP, TTD, HTTP, PostgreSQL |
 | **Shop Keeper**| A terminal-based app to manage store stock, orders and print receipts | Python, Pytest, OOP, TTD |
-| **Password Cracker** | A terminal-based app to demonstrate common hacking tactics including Dictionary Attack, Hybrid Attack, Hashcat Mask, and Phishing | Python, Tkinter |
+| **Password Cracker*** | A terminal-based app to demonstrate common hacking tactics including Dictionary Attack, Hybrid Attack, Hashcat Mask, and Phishing | Python, Tkinter |
 | **Flight Finder** | A terminal-based app that finds you the cheapest round-trip flights between a set date range and trip length range for a set of cities | Python, Kiwi API, Sheety API |
 
 ## Work Experience
@@ -22,19 +22,26 @@ At my heart, I am a maker, whether it is an elegant piece of software or beautif
 **Makers Academy** (Sept '23 to Jan '23)  
 _Student Full-Stack Developer_
 
-- Developed weekly projects with a focus on OOP and TTD to create code that is easy to read, scalable and easy to change.
+- Wrote web-based full-stack applications in both Python (Flask) and Javascript (MERN). Experienced in designing and writing a relationship database from scratch with PostgreSQL.
 
-- Worked collaboratively on team projects, and regular pair-programming.
+- Developed personal weekly projects with a focus on OOP, TTD, and considered architecture to create code that is well-tested, easy to read, maintain, and scale.
+
+- Worked collaboratively on team projects in an Agile environment (including SCRUM, Pair Programming, Kanban, etc.) to efficiently reach MVPs, implement new features, and deploy them in a CI-CD approach.
+
+- Adept at independently interpreting Briefs and User Stories into project architecture and can confidently solve logistical problems with software.
+
 
 <br>
 
 **DOM REBEL** (Jul '22 to Sept '23)  
 _Lead Designer_
 
-- Lead a team of assistant designers, in-house artists, and freelancers to create collections of over 60 products per season. 
-<!-- - From my involvement, the brand has gained `Selfridges` and `Harrods` among their stockists. -->
-- Strong research skills and can take ownership of developing products from concept to design & development to prototype and deployment.
-<!-- - Sensitivity towards design, excellent research skills for what is sticky and eye for cultural trends -->
+- Lead a team of assistant designers, in-house artists, and freelancers to create collections of over 60 products per season. From my involvement, the brand has gained world-reknowned luxury department stores `Selfridges` and `Harrods` among their stockists.
+
+- Strong research skills and can take ownership of developing products from concept, to design & development, to prototype and deployment.
+
+- This role gave me skills directly applicable to designing a software engineering product from scratch. I am adept at interpretting a high-level brief into concrete project components. I can own products from end-to-end, and design solutions with both technical efficiency and brand-alignment in mind.
+
 <br>
 
 **A-Cold-Wall*** (Aug '21 to Oct '22, Jan '23)  
@@ -42,7 +49,7 @@ _Freelance Technical Designer_
 
 - Created technical packages, with diagrams and specifications for the construction, material, wash, print, and trims of each product.
 
-- This role is similar to ER modelling for software engineering. I am well-practiced in breaking down a product design into separate components with its own spec details and dependencies, and communicating these clearly to a third party.
+- This role is similar to OO analysis and design for software engineering. I am well-practiced in breaking down a product design into separate components with its own spec details and dependencies. I can communicate these technical details through well-drawn diagrams and clearly-written specifications to a third party.
 
 <br>
 
@@ -57,26 +64,20 @@ _Menswear Design Assistant, Mainline Wovens_
 
 ## Skills
 
-<!-- Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
 
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had.  -->
-
-<!-- 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.) -->
-
-#### Systems Design Thinking
+#### Analytical Problem-Solving Skills
 <!-- TODO -->
 
-#### Product Development
+#### End-End Product Ownership
 <!-- TODO -->
 
-#### Research
+#### Independent Research
 <!-- TODO -->
 
 #### Communication
+<!-- TODO -->
+
+#### Eye for Trends
 <!-- TODO -->
 
 ## Education
@@ -84,13 +85,14 @@ Consider skills relevent to software development. Then consider projects you've 
 #### Makers Academy (Sept '23 to Jan '24)
 <!-- TODO: Description -->
 - Recipient of the Represent Scholarship, sponsored by `codebar.io`
-- Python, Flask, PostgreSQL, Javascript
-- OOP, TDD
+- Python (Flask), SQL, Javascript (MERN), HTML, CSS
+- OOP, analysis & design
+- TDD
 - Git, Version-Control
 - CI-CD
 - Pair-programming
 - Agile methodology
-- Learning: MERN stack, Swift
+- Learning: Swift
 
 #### Central Saint Martins (Sept '18 to Mar '20)
 
