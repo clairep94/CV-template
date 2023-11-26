@@ -10,12 +10,17 @@ At my core, I am a maker, whether it is an elegant piece of software or beautifu
 
 | Name                        | Description                   | Tech/tools                  |
 | ----------------------------| ----------------------------- | --------------------------- |
+| [**Acebook**](https://github.com/clairep94/acebook-Griffins) | A fullstack Facebook clone created from a legacy starter codebase using the MERN Stack. Demonstrates Facebook’s main functionalities including: Newsfeed, Likes, Comments, User Profiles, Real-time Search, and Friends. | MongoDB, Express, React, Node.js, Git, HTML, CSS |
+| [**Password Cracker**](https://github.com/clairep94/fauxstar_password_cracker) | A terminal-based app to demonstrate common hacking tactics including Dictionary Attack, Hybrid Attack, Hashcat Mask, and Phishing | Python, Tkinter |
+|[**Makersbnb (WIP)**](https://github.com/clairep94/airbnb_clone_simple) | A fullstack Airbnb clone created from scratch using Python, Flask, and PostgresQL. Demonstrates Airbnb’s main functionalities including: Listings, Bookings, Requests, and Search Function. | Python, Flask, Pytest, Playwright, Psycopg, Git, Bash, PostgresQL, CSS, HTML |
+
+<!--
 | **ASCII Image Filter***      | An app to turn images into ASCII art | Python, PIL     |
 | **Twitter Clone (WIP)*** | Barebones CRUD webapp with Twitter's main functionalities including: Follow, Post, Comment, Like, Hashtag | Python, Flask, Pytest, Playwright, OOP, TTD, HTTP, PostgreSQL |
 | **Music Library**           | First CRUD webapp to store artists and albums | Python, Flask, Pytest, Playwright, OOP, TTD, HTTP, PostgreSQL |
 | **Shop Keeper**| A terminal-based app to manage store stock, orders and print receipts | Python, Pytest, OOP, TTD |
-| **Password Cracker*** | A terminal-based app to demonstrate common hacking tactics including Dictionary Attack, Hybrid Attack, Hashcat Mask, and Phishing | Python, Tkinter |
 | **Flight Finder** | A terminal-based app that finds you the cheapest round-trip flights between a set date range and trip length range for a set of cities | Python, Kiwi API, Sheety API |
+-->
 
 ## Work Experience
 
