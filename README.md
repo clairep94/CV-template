@@ -27,9 +27,9 @@ At my core, I am a maker, whether it is an elegant piece of software or beautifu
 **Makers Academy** (Sept '23 to Jan '23)  
 _Student Full-Stack Developer_
 
-- Wrote web-based full-stack applications in both Python (Flask) and Javascript (MERN). Experienced in designing and writing a relational database from scratch with PostgreSQL.
+- Created test-driven full-stack web applications from scratch with Python (Flask) and Javascript (MERN) frameworks, SQL and NoSQL relational databases, and Git version control.
 
-- Developed weekly personal projects with a focus on OOP, TTD, and considered architecture to create code that is well-tested, easy to read, maintain, and scale.
+- Developed weekly personal projects with a focus on OOP, TTD, and considered project architecture to create code that is well-tested, easy to read, maintain and scale.
 
 - Worked collaboratively on team projects in an Agile environment (including SCRUM, Pair Programming, Kanban, etc.) to efficiently reach MVPs, implement new features, and deploy them in a CI-CD approach.
 
@@ -90,14 +90,14 @@ _Menswear Design Assistant, Mainline Wovens_
 #### Makers Academy (Sept '23 to Jan '24)
 <!-- TODO: Description -->
 - Recipient of the Represent Scholarship, sponsored by `codebar.io`
-- Python (Flask), SQL, Javascript (MERN), HTML, CSS
+- Python (Flask), SQL, NoSQL, Javascript (MERN), HTML, CSS
 - OOP, analysis & design
 - TDD
 - Git, Version-Control
 - CI-CD
 - Pair-programming
 - Agile methodology
-- Learning: Swift
+- Learning: Kotlin
 
 #### Central Saint Martins (Sept '18 to Mar '20)
 
