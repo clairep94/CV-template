@@ -3,7 +3,7 @@
 
 I am a junior full-stack developer and current recipient of the `Represent Scholarship` by `codebar.io` for `Makers Academy`. Previous to my journey in tech, I was a fashion designer and have designed for luxury brands such as `Burberry`, `Celine`, and `A-Cold-Wall`. 
 
-At my core, I love to make things, whether it is an elegant piece of software or beautiful piece of clothing. I thrive in high-paced environments that require adaptability, can take complete ownership of a product from research to development to launch, and have experience working in teams to build test-driven apps using the MERN stack, Python & Flask.
+At my core, I love to make things, whether it is an elegant piece of software or a beautiful piece of clothing. My background in design allows me to excel in systems thinking and create robust applications with aesthetic UI in mind. I thrive in high-paced environments that require adaptability, can take complete ownership of a product from research to development to launch, and have experience working in teams to build test-driven apps using the MERN stack, Python & Flask.
 
 ## Projects
 
